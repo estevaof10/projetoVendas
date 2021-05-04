@@ -49,7 +49,7 @@ function DataTable() {
                         <td>26/04/2021</td>
                         <td>Sasuke</td>
                         <td>31</td>
-                        <td>fa-rotate-270</td>
+                        <td>270</td>
                         <td>13017.00</td>
                     </tr>
 
